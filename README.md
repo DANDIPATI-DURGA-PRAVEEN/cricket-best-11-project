@@ -32,7 +32,9 @@ Welcome to DataCricket Galaxy Insights! This project explores the world of T20 c
 - Power BI proficiency for dynamic and visually appealing dashboards.
 - Understanding of cricket statistics and the ability to translate them into strategic insights.
 
-## Project Sportan
+# Project Sportan
+
+## Overview
 
 In Project Sportan, we aim to assemble the best cricket team from our planet to compete in T20 matches. While we may not know the strengths and weaknesses of our opponents from other planets, our focus is on selecting the top 11 players to represent Earth in these interplanetary cricket clashes.
 
@@ -49,3 +51,11 @@ In Project Sportan, we aim to assemble the best cricket team from our planet to 
 
 4. **Performance Metrics:**
    - Implement performance metrics to evaluate and optimize the team's overall effectiveness in interplanetary T20 matches.
+
+## Contact Information
+
+For questions, contributions, or feedback, feel free to reach out to [durgapraveendandipati@gmail.com](mailto:durgapraveendandipati@gmail.com).
+
+---
+
+Let the cricket games, both on and beyond our planet, begin! 🏏🌌
